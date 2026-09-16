@@ -99,7 +99,7 @@ AI-focused Full Stack Developer based in Ahmedabad, India, with 3 years of exper
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
+  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonaws&label=&color=232F3E&logoColor=FF9900&style=for-the-badge" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -126,5 +126,8 @@ AI-focused Full Stack Developer based in Ahmedabad, India, with 3 years of exper
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milandharani26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- If the graph above shows broken, this service is temporarily rate-limited.
+       Just refresh the page in a minute, or swap the src above for this mirror:
+       https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=milandharani26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2 -->
   <img src="https://streak-stats.demolab.com?user=milandharani26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
